@@ -11,3 +11,5 @@ main.cpp
 
 https://www.programiz.com/cpp-programming/library-function/cctype/toupper
 [class textbook] Data Structures and Algorithms in C++ (2nd Edition) --> (Chapters 5.1 [5.1.7] and 5.2)
+
+Known Error: program is stuck on one error and wont update even after the file has been updated
